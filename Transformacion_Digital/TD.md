@@ -548,6 +548,427 @@ Selecciona la afirmación correcta con respecto a lo presentado en el artículo 
 **La alternativa correcta es: En Chile, hay gran espacio para potenciar la disponibilidad de servicios digitales y móviles provistos por la banca debido al creciente uso de tecnologías móviles y expectativas por parte de los chilenos:** Sobre la alternativa a), en el caso se menciona explícitamente que banca móvil u online va más allá de ver el sitio web: “se trata de un espacio que permite la prestación de la mayor cantidad posible de servicios a través de dispositivos móviles, como smartphones y tabletas. La banca móvil también aprovecha al máximo las ventajas de la personalización y los servicios basados en la ubicación al utilizar información del cliente.” Por otro lado, el caso de Suecia plantea innovaciones radicales con el ejemplo de pagos a través de microchips implantados en sus manos para pagar movilización, comida o incluso, acceder a sus oficinas de trabajo. Sobre Chile, MACH, no se trata de un reemplazo de productos como cuentas corrientes, sino para democratizar el acceso a estos, minimizando las restricciones financieras a personas que no son propietarias de una cuenta corriente. Permite realizar operaciones entre cuentas (por ejemplo, desde su cuenta rut), de modo que sea una experiencia digital, sin algún paso en un cajero o sucursal física. La alternativa d) sintetiza lo planteado por el artículo, desde el creciente uso de tecnologías móviles por parte de los chilenos y los numerosos espacios donde es posible aprovechar avances para desarrollar nuevos servicios desde la banca.
 
 
+## Unidad 2: Evolución, aplicaciones y oportunidades de las tecnologías emergentes
+
+### Objetivos Unidad 2
+
+1. Conocer las distinciones conceptuales sobre automatización e inteligencia artificial (IA).
+2. Identificar, a partir de ejemplos concretos, las oportunidades que los avances en el ámbito de la automatización e IA presentan para agregar valor.
+3. Generar una mirada crítica respecto al impacto de los avances en el ámbito de las tecnologías, considerando efectos no deseados en su desarrollo y/o aplicación.
+
+### Evolución de los avances tecnológicos y una primera mirada a la automatización
+
+*La inteligencia artificial (IA) y la automatización son dos conceptos que las personas generalmente asocian aTransformación Digital, pero que a veces se confunden entre sí. Es por ello que abordaremos sus diferencias,analizaremos algunas consecuencias de sus avances y lo que están provocando en la sociedad, transcendiendo suaplicación en los negocios.*
+
+#### ¿Cómo han evolucionado las tecnologías y qué caracteriza a la llamada “Revolución 4.0”?
+
+En esta segunda unidad continuaremos revisando algunos avances tecnológicos clave en el contexto de los procesosde Transformación Digital que están ocurriendo en distintas industrias. Además, profundizaremos en el **impacto deestos avances en el entorno de empresas y organizaciones**, que nos llevará al eje central de este curso:dimensionar los cambios y desafíos que la Transformación Digital involucra, y así diseñar respuestas y estrategiaspara abordarlos.
+
+En la primera unidad revisamos aplicaciones relacionadas con dispositivos inteligentes, internet de las cosas (IoT) yrealidad aumentada, tecnologías utilizadas en industrias tan distintas entre sí como la cosmética y la prensa escrita.Estos son algunos ejemplos de la revolución que estamos viviendo.
+
+Un reciente reporte del MIT Technology Review (2019) revisa la evolución histórica de aquello que hoy estamosexperimentando como la llamada “Revolución Industrial 4.0”, la cual se fundó sobre una secuencia de tecnologíasdesarrolladas desde fines del siglo XVIII en adelante. En esa línea, se destacan cuatro “revoluciones” ligadas aldesarrollo tecnológico que preceden a la 4.0, en la cual la Transformación Digital se está llevando a cabo:
+
+
+<table>
+	<thead>
+		<tr>
+			<th>Revolución Industrial</th>
+			<th>Revolución tecnológica</th>
+			<th>Revolución digital</th>
+			<th>Revolución industrial 4.0</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>
+				<ul>
+					<li>La máquina a vapor se utiliza como principal fuente de producción</li>
+					<li>Nace la iluminación, inicialmente mediante el uso de gas.</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Uso del acero para la construcción de infraestructura.</li>
+					<li>Nace el uso de la electricidad.</li>
+					<li>Se inventa el primer automóvil.</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Se crean los primeros transistores y microprocesadores.</li>
+					<li>Los computadores personales se comercializan.</li>
+					<li>Emerge la World Wide Web.</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Los computadores superan por primera vez a los humanos en tareas complejas.</li>
+					<li>Para 2020 se proyectan 30 billones de dispositivos conectados mediante IoT.</li>
+				</ul>
+			</td>
+	</tbody>
+</table>
+
+Fuente: *Getting smart about the future” (MIT Technology Review, 2019)*
+
+Un aspecto diferenciador de la Revolución 4.0 con respecto a las anteriores es la velocidad a la que se vienen desarrollando e implementando las nuevas tecnologías. Es en este contexto donde emerge el interés por entender los avances en automatización y la inteligencia artificial (IA), términos muy populares hoy en día, pero que tienden a confundirse entre sí. Los invitamos a distinguirlos y comprender sus particularidades, sin desmedro de que en la aplicación práctica existan numerosas relaciones y sinergias entre ellos.
+
+#### Automatización y sus avances aplicados a la Transformación Digital
+
+Histó ricamente, la automatizació n , entendida como la ejecució n de tareas, actividades y procesos con el apoyo de tecnologí a , ha sido utilizada de manera transversal en distintas industrias, incluso antes de contar con el uso de inteligencia artificial (IA). Aún así, no son conceptos totalmente excluyentes entre sí a la hora de pensar aplicaciones para la Transformación Digital.
+
+En su reciente texto “Historia de la automatizació n en Chile”, el acadé mico de la Universidad de Santiago, Hugo Seguel y el periodista Mario Bravo investigaron la evolució n de la incorporació n tecnoló g ica a lo largo de distintas industrias. Los primeros impactos en productividad se dieron inicialmente en industrias como la minerí a , el petró leo y la celulosa, y desde los añ o s 60 comienza a expandirse hacia otras como la producció n de alimentos, para finalmente en los añ o s 80 y 90 abarcar transversalmente distintos á mbitos, gracias a la llegada al paí s de grandes multinacionales de automatizació n 1 .
+
+Por otro lado, Ravin Jesuthasan y John Boudreau, autores de “Reinventing Jobs: A 4-Step Approach for Applying Automation to Work” (2018), plantean la importancia de tener una mirada sistémica sobre la automatización a la hora de explorar oportunidades para reinventar cómo la organización hace el trabajo.
+
+Entonces, el desafío de la automatización, trascendiendo lo técnico, es pensar más allá de los argumentos de tipo económico que tradicionalmente aluden al reemplazo de trabajadores, reducción de costos u obtención de mayor eficiencia en alguna tarea o actividad puntual 2 .
+
+Una mirada más amplia sobre el trabajo que la empresa u organización realiza implica mapear y visualizar aquellas funciones, actividades y procesos susceptibles de ser automatizados, de esta manera, ese proceso de reconocimiento se realizará de manera holística 3 . Para ello, y ocupando como caso práctico un cambio realizado dentro de una empresa de refinamiento de petróleo y gas, Jesuthasan y Boudreau plantearon una serie de estrategias para aplicar la automatización mediante el siguiente enfoque sistémico sobre el trabajo:
+
+1. Mirar las funciones específicas como un conjunto de soluciones que proveen servicios más allá de la tarea o actividad.
+2. Trasladar a las personas desde funciones repetitivas, peligrosas o aisladas a otras más variables, seguras e interdependientes.
+3. Descomponer todo el trabajo en tareas y actividades que puedan ser mapeadas dentro de las siguientes categorías:
+    * Centralizadas
+    * Desplazadas hacia otros roles
+    * Aumentadas (mediante el uso de tecnologías, como por ejemplo realidad aumentada)
+    * Eliminadas
+    * Creadas
+
+#### Aplicando la automatización: Caso Angloamerican
+
+Según lo evidenciado en el caso de estudio de Jesuthasan y Boudreau, en el negocio de la refinería se lograron beneficios concretos en torno a rentabilidad, retención y atracción de talento, además de la posibilidad de ajustarse mejor a la diversidad de su fuerza de trabajo actual.
+
+En Chile, un caso reciente de aplicación de la empresa Angloamerican muestra cómo aplicaron la automatización y robótica para resolver el desafío de conocer con detalle, precisión y de forma oportuna el estado interior de una tubería de 50 kilómetros que transporta mineral desde Los Bronces para su refinamiento 4 . Por ello, en alianza con la Carnegie Mellon University, líderes en el desarrollo e investigación relacionada a la robótica a nivel mundial, desarrollaron un “robot inspector”, el cual monitoreó de principio a fin dicha tubería y proporcionó información de su estado mediante la obtención y procesamiento de imágenes 5 .
+
+### Inteligencia Artificial (IA) en la Transformación Digital
+
+*Cuando hablamos de Inteligencia Artificial (IA) es importante tomar distancia de la "caricatura" que se realiza a veces sobre el término, que ha estado asociado a la imaginería del género de la ciencia ficción o a escenarios catastróficos con respecto a la humanidad.*
+
+#### Inteligencia Artificial
+
+Para efectos de nuestro estudio sobre Transformación Digital, junto con el concepto de automatización, debemos comprender no solamente los alcances técnicos y de aplicación de la IA, sino su incidencia o impacto en distintas industrias e incluso en nuestra vida diaria.
+
+Una buena síntesis sobre las distinciones conceptuales respecto a la IA fue realizada por el PhD en Inteligencia Artificial, profesor de la Universidad Adolfo Ibáñez y experto en esta temática, John Atkinson, quien la define como “...la ciencia de hacer que los computadores realicen tareas que si las hicieran los humanos serían catalogadas como inteligentes" 1 .
+
+La IA y sus aplicaciones vienen desarrollándose desde el siglo pasado, con destacados avances en distintas áreas, también llamadas “capacidades de IA”, como el aprendizaje automático, minería de datos, etc. Estas capacidades de la IA son las que:
+
+> Permiten la realización de tareas o resolución de problemas (cognitivamente) complejos, de forma eficiente, muchas de las cuales están basadas en el uso intensivo de conocimiento" *John Atkinson*
+
+Así, para considerar a la IA como un ámbito de avances tecnológicos relevantes para la Transformación Digital se deben destacar los siguientes elementos fundamentales:
+
+* La IA integra y combina el desarrollo y aplicación de distintas tecnologías, cada una correspondiente a distintas “capacidades”.
+* Dicho set de capacidades apunta a la realización de tareas complejas por parte de máquinas, desde un aspecto cognitivo.
+* Abordar la complejidad puede reflejarse en aplicaciones tales como la automatización, que apunta a la eficiencia en la resolución.
+
+De lo anterior podemos desprender algunas distinciones entre la IA (ciencia, disciplina, ámbito de estudio), sus capacidades (avances como aprendizaje automático, minería de datos) y aplicaciones (automatización y robótica). No todos los términos significan lo mismo, lo que debe servirnos como orientación a la hora de pensar en la IA en el contexto de la Transformación Digital y así evitar confusiones conceptuales.
+
+#### La aplicación de la Inteligencia Artificial en la empresa
+
+¿De qué forma incorporar la inteligencia artificial en las organizaciones? Tanto para las que se inician en la Transformación Digital o para las startups que han sido digitales desde su origen, se deben considerar ciertos resguardos en torno a los datos utilizados y las consecuencias que tiene su uso como base de software o sistema de algoritmos.
+
+Si queremos abordar los principios para la aplicación de la Inteligencia Artificial, es importante revisar la opinión de distintos expertos de la industria. La directora de Tecnología e Innovación de IBM, Elisa Martín, plantea que existen espacios, a lo largo de distintas industrias, que pueden ser explorados dentro de las mismas empresas y organizaciones 3 . En esa línea, también podríamos considerar los que se realizan a partir de los nuevos modelos de negocios que emergen desde las startups, por ejemplo las Fintech.
+
+*Según Martín, uno de los mayores desafíos para el caso de las empresas consiste en la labor “didáctica” de difundir la IA, sobre todo con las medianas y pequeñas empresas, para lograr descubrir de qué forma aplicarla en sus procesos para apoyar la transformación.*
+
+Por ejemplo, una de las principales metodologías de trabajo que IBM realiza con empresas trata de tomar prestados métodos propios de diseño para la innovación (Design Thinking), consistentes en actividades que incluyen tareas y/o acciones de ideación conceptual de soluciones, realización de prototipos y construcción de productos mínimos viables (MVPs) para testear tempranamente posibles avances 4 . Finalmente, luego de explorar, idear y prototipar, viene el desafío de la difusión y adopción. Esta puede ser explorada también desde los procesos de innovación, que permiten generar condiciones favorables para la experimentación, proceso que ha sido destacado por el Head of IA en Everis, Alberto Otero 5 .
+
+Por otro lado, la búsqueda de nuevas formas de aplicación de IA en el contexto de negocio de empresas y organizaciones se ha visto favorecida por la disminución de los costos de infraestructura tecnológica, así como por la inversión que realizan grandes empresas de tecnología, lo que ha incentivado avances en esta línea. Así lo destaca David Rogers en “The Digital Transformation Playbook” (cuyo framework revisamos en la primera unidad del curso): “es relevante aprovechar la posibilidad de experimentar y desarrollar prototipos y productos mínimos de manera más barata y aminorando los riesgos de proyectos muy complejos” 6 .
+
+#### AI en innovación y emprendimiento
+
+En el contexto de startups chilenas podemos encontrar dos interesantes aplicaciones que han utilizado la IA como fuente de valor para generar nuevos modelos de negocios. Si bien hay una diferencia entre las startups que nacieron digitales versus las empresas ya existentes que buscan transformarse digitalmente, debemos conocer qué oportunidades nos trae la IA para distintas dimensiones del negocio y en variadas industrias.
+
+Recordemos que estas dimensiones y ámbitos de oportunidad fueron vistos en la primera unidad, particularmente en los frameworks de Transformación Digital de cinco dominios de David Rogers y las nueve dimensiones de Westerman, Didier Bonnet y Andrew McAfee. Revisamos los ejemplos a continuación:
+
+#### NotCo
+
+Por otro lado, tenemos el caso de The Not Company (“NotCo”), quienes mediante el uso de algoritmos de IA han encontrado formas de descomponer molecularmente alimentos de las más amplia variedad y así re-crearlos en textura y sabor, pero utilizando solamente ingredientes de origen vegetal y buenos para la salud 7 .
+
+Uno de sus productos más famosos (Not Mayo), es una mayonesa que está hecha a partir de distintos ingredientes naturales que distan de aquellos más industriales, pero cuya mezcla entrega un sabor idéntico a la mayonesa.
+
+> ***Ver:*** [NotCo: el nuevo algoritmo de la comida](https://www.latercera.com/pulso/noticia/notco-nuevo-algoritmo-la-comida/471945/)
+
+La compañía prontamente lanzará nuevos productos entre los que se incluyen leche y embutidos, entre otros. A principios del año 2019 se difundió ampliamente la noticia de la inversión del CEO de Amazon, Jeff Bezos, en la empresa 8 , lo que refleja aún más el alcance global que esta innovación basada en IA ha logrado:
+
+> ***Ver:*** [How vegan mayonnaise convinced Jeff Bezos to make his first ...](https://www.fastcompany.com/90316486/how-vegan-mayonnaise-convinced-jeff-bezos-to-make-his-first-investment-in-south-america)
+
+#### El desafío de la adopción e incorporación de la IA
+
+En 2019 se publicó un reporte sobre Inteligencia Artificial (IA) en Chile, en el contexto de una iniciativa de la Cámara del Senado como parte de la Comisión “Desafíos del futuro, ciencia, tecnología e innovación”. El reporte plantea el estado del arte de la IA en Chile, abordando múltiples ámbitos que reflejan por qué la IA es una temática relevante en el país para los años que vienen, y cómo hay un potencial en su desarrollo y aplicación en distintos contextos.
+
+Existe un llamado de atención hacia el lento avance de la IA en Chile, más limitado hacia un enfoque “comercial” y de negocio, pero sin una componente de innovación propia, la cual tiene ciertas limitaciones en cuanto al potencial de desarrollo: “Cabe destacar casos como los de las empresas NotCo (IA en Alimentos), Orand (IA en Visión/Imágenes), TOC (Biometría y Visión), Zippedi Inteligencia Artifcial para Chile 20 (Robótica para supermercados) y otras, que han desarrollado tecnologías únicas de IA con impacto. Sin embargo, la mayor parte de los emprendimientos que se están generando no desarrollan tecnologías propias, sino que utilizan herramientas comerciales para generar alguna aplicación. En este sentido, el problema actual es que muchas de ellas sólo “aplican” temas relacionados a IA, pero no llevan adelante un proceso de innovación” 9 .
+
+### Desarrollo de datos y aplicaciones de IA: La importancia de una mirada crítica
+
+*¿Pueden las máquinas interpretar la información y no aplicar sesgos? Al igual que los humanos, para tomar buenas decisiones y no reproducir interpretaciones erradas, debemos contar con buena información.*
+
+Para que los proyectos relacionados con IA tengan éxito, es clave asegurar ciertas condiciones respecto al entendimiento de los datos que la empresa recoge, procesa y genera. Esto debido a que la IA y sus capacidades se nutren de datos e información para lograr llevar adelante la inteligencia al enfrentar un desafío complejo, el cual depende del contexto y dominio específico del problema.
+
+En simple: al igual que los humanos necesitamos buenos datos e información para tomar buenas decisiones, la IA requiere de lo mismo para resolver de manera exitosa un problema complejo, que es antecedido de una toma de decisiones realizada mediante algoritmos. De lo contrario, al aplicar algoritmos de IA sobre datos incorrectos o sesgados, solamente se lograrán resultados que no agregan valor, sino que solamente entregan respuestas o cálculos más rápidos.
+
+>Por otro lado, se debe posicionar a la IA y sus aplicaciones dentro de contextos y dominios específicos sobre los cuales sus soluciones son capaces de abordar desafíos complejos y así generar valor.
+
+La misma “máquina” o sistema capaz de vencer al campeón mundial de GO (juego de tablero de estrategia chino) puede fallar en la predicción de mis preferencias en Spotify al sugerirme una canción o artista. Por ejemplo, en el caso de Angloamerican, el robot diseñado para monitorear el estado interno de una tubería para transportar mineral puede fallar al procesar imágenes de reconocimiento facial. En definitiva, dominios diferentes requieren datos y capacidades diferentes de IA, por lo que no es automáticamente transferible de un contexto a otro.
+
+Considerando que el foco de nuestro curso es el cambio asociado a la Transformación Digital, resulta importante revisar con mayor detalle las implicancias del desarrollo y aplicación de las tecnologías que hemos revisado hasta el momento, considerando que estas se encuentran cada vez más presentes en nuestra vida diaria, más allá de los aspectos relacionados con el negocio.
+
+Por ejemplo, uno de los principales alcances se relaciona con los sesgos presentes en algoritmos de predicción que, a su vez, generan decisiones que también resultan sesgadas, replicando una serie de efectos negativos para ciertos grupos de la población.
+
+#### Casos de sesgo en IA: Recursos humanos y predicción en la criminalidad
+
+La reconocida investigadora de tecnologías y sus efectos en la vida humana, Zeynep Tufekci, en su charla TED titulada “Machine intelligence makes human morals more important” trató la necesidad de estar atentos a las “cajas negras” en que se han convertido las nuevas tecnologías, particularmente aquellas relacionadas con la inteligencia de máquina o IA. Tufekci plantea cómo la programación se ha ido complejizando cada vez más, convirtiendo a las soluciones digitales en verdaderas “cajas negras” donde, para toda persona ajena a ella, resulta difícil entender qué está realmente computando la máquina.
+
+> ***Ver:*** [Machine intelligence makes human morals more important](https://www.ted.com/talks/zeynep_tufekci_machine_intelligence_makes_human_morals_more_important/transcript)
+
+Lo anterior también es tratado por Cathy O’Neal, la matemática experta en ciencia de datos, quien previamente se desempeñó en la industria financiera aplicando estas herramientas. O’Neal se ha transformado en otra referente importante sobre el escepticismo que existe respecto a la aplicación de algoritmos, los cuales deben evidenciar algunos resguardos frente a la presencia de sesgos.
+
+En su charla TED, a través de distintos ejemplos de presencia de sesgos al predecir el desempeño de profesores para su despido o promoción y predicción de la criminalidad. O’Neal refleja de qué forma los algoritmos, además de ser cajas negras como planteaba Tufecki, presentan trabas para poder ser auditados por la ciudadanía.
+
+Tanto Tufecki como O’Neal nos muestran casos concretos donde las tecnologías arrastran decisiones sesgadas en género y raza, lo cual es reflejo de cómo la capacidad predictiva (una de las principales promesas de la IA) se ve afectada por sesgos a la hora de construirlas, esto es, programarlas.
+
+#### El peligro en los sesgos
+
+Uno de los casos más emblemáticos sobre IA y sesgos le ocurrió a Amazon, quienes tuvieron que desechar una solución de IA desarrollada para automatizar parte del proceso de reclutamiento y selección de personas.
+
+Al ser implementada, dicha tecnología arrojó una serie de resultados que arrastraban sesgos de género, donde el sistema penalizaba a las candidatas en la medida que el lenguaje privilegiaba la forma en que estaban redactados los CV de candidatos hombres 1 . Existían palabras presentes en currículums masculinos que eran mejor evaluadas por los algoritmos, en desmedro de los CV femeninos, así como también ciertas características de género, prediciendo un mejor desempeño de hombres por sobre mujeres 2 .
+
+Otro caso polémico ocurrió en Londres, donde la Policía Metropolitana implementó, al igual que otros departamentos de policía en el mundo, soluciones basadas en algoritmos predictivos para guiar el uso eficiente de recursos para prevenir y combatir la criminalidad, específicamente con un software de reconocimiento de imágenes en computadores incautados por motivo de investigación criminal 3 .
+
+Los principales problemas de este software han estado relacionados a la falta de transparencia en cómo trabajan los algoritmos, generando incluso predicciones incorrectas producto de entrenamientos desde datos que “penalizan” con más fuerza a comunidades y minorías vulnerables en términos socioeconómicos 4 . Por ejemplo, una de las lecturas erradas que hizo este software computacional fue confundir imágenes de dunas (u otras referencias de lugares desérticos) con imágenes de pornografía infantil, lo que significó innumerables alertas y falsos positivos en información que no estaba relacionada con el real motivo de búsqueda 5 .
+
+### El potencial del uso de datos y analítica (Data & Analytics)
+
+*La información siempre ha sido un gran aliado de las marcas. A partir de datos, acciones y análisis, se puede llegar a conocer mucho a los consumidores. Así lo han hecho desde equipos de fútbol a empresas relacionadas al vino. Todas, con grandes resultados.*
+
+La Transformació n Digital tambié n ofrece una oportunidad a las empresas para obtener una ventaja competitiva sostenible. Esto, a partir de la informació n de valor que podemos obtener por medio de una buena gestió n sobre los datos, generando nuevos flujos de ingresos, unidades de negocios e incluso nuevos negocios independientes al rentabilizar estos datos que se poseen.
+
+Pese al enorme potencial, a las organizaciones en Chile y América Latina les cuesta avanzar en iniciativas concretas en esta línea y otras relacionadas. Por ejemplo, en el contexto de un reciente evento de la Cámara Chileno Norteamericana de Comercio (AmCham), se difudió el estudio “Artificial Intelligence Readiness”, elaborado por el Instituto de Data Science de la Universidad del Desarrollo (UDD) que mostró una proporción muy baja de empresas que han avanzado efectivamente en la adopción de inteligencia artificial. De su investigación, el estudio también concluye que:
+
+*“Un número significativo de empresas analizadas no utilizan datos para la toma de decisiones, ni cuentan con un protocolo para el manejo de datos sensibles, así como tampoco tienen la infraestructura, los especialistas ni el software adecuado para incorporar analítica predictiva en sus operaciones" 1 .*
+
+#### Tecnología y oportunidades para la aplicación de Data & Analytics
+
+En este curso hablamos sobre distintos avances tecnológicos, como el desarrollo de dispositivos inteligentes que combinan propiedades como la potencialidad de la llamada “Internet de las Cosas” o “Internet of Things” (IoT) con la versatilidad, facilidad y experiencia de uso por parte de los usuarios.
+
+Estos dispositivos tienen la gracia de ser “puntos de contacto” digitales entre las personas y la empresa, mostrando el valor de manera tangible hacia los usuarios y abordando necesidades a base de soluciones digitales que se nutren de datos y los utilizan para ir generando nuevas fuentes de creación de valor.
+
+Casos como el de los “wearables” de L’Oreal muestran que el potencial es enorme, y es necesario explorar formas en que la tecnología se convierte en una forma tangible de implementar en la práctica el potencial que los datos, la analítica y la IA tienen para los negocios y otros ámbitos de la sociedad donde sea posible generar progreso.
+
+Esto ha sido aprovechado mayormente por startups y emprendimientos tecnológicos en una industria compuesta por “nativos digitales”, que con estructuras ligeras a nivel de organización, y una cultura que naturalmente se orienta a la experimentación y a la resolución rápida de necesidades concretas de los usuarios, logran generar efectos de red de forma temprana.
+
+#### No es solamente para las empresas de tecnología o “nativas digitales”
+
+No solo los “nativos digitales” pueden aprovechar los datos y las plataformas digitales a su favor. El club de fútbol Liverpool, de Inglaterra, ha incorporado el análisis de datos como parte relevante de la toma de decisiones, desde lo corporativo hasta lo táctico 2 . Contrataciones de jugadores y estrategias de juego basadas en complejos modelos, sumado a los positivos resultados en años recientes han hecho del Liverpool un nuevo referente en redefinir el fútbol desde los datos y la analítica 3 .
+
+Industrias más tradicionales, como la de producción de vino, también están aprovechando los avances de la ‘Industria 4.0’ que hemos venido viendo desde la primera unidad del curso. Hay empresas como Winc y Myoeno, que más allá de solo producir vinos y venderlos al consumidor de una forma tradicional, están transformando digitalmente el modelo de negocio mediante recoger y analizar datos e información sobre los gustos de los consumidores mediante aplicaciones y dispositivos digitales 4 .
+
+Winc aprovecha los datos entregados por sus clientes y sofisticados algoritmos de recomendación para elaborar (con otras viñas) y enviar vinos que se ajusten a las preferencias y gustos de consumo 5 . Por otro lado, Myoeno dispone un “escáner” digital al cliente para que analice digitalmente una botella y, luego del análisis de sus componentes, vea si dicha botella se ajusta a lo que gusta 6 . Ambas empresas aprovechan con esto ir generando datos que van enriqueciendo sus propios algoritmos.
+
+Un importante aprendizaje de la Transformación Digital en industrias productivas más “tradicionales” como la del vino es la necesidad de toda empresa u organización de adaptarse a nuevos modelos de negocio digitales, donde las tecnologías “4.0” serán clave en aprovechar el análisis de los datos para entregar a los clientes productos que se ajusten mejor a sus propias preferencias.
+
+### La tragedia evitable del Boeing 737 Max
+
+*El siguiente caso es un ejemplo de implementación tanto humana como técnica de una solución tecnológica que terminó provocando dos accidentes aéreos sin sobrevivientes. A continuación revisaremos el caso del sistema automatizado para el modelo de avión 737 Max 8.*
+
+Boeing es una compañía fundada el año 1916 en Chicago, Estados Unidos. Esta empresa diseña, manufactura y vende aviones, helicópteros, misiles y satélites, participando en la industria aeroespacial y de defensa. Hoy, cuenta con 153 mil trabajadores/as y durante el 2018 registró ingresos por más de 100 mil millones de dólares 1 .
+
+Uno de los aviones comerciales más vendidos es el Boeing 737 Max 8, un modelo refaccionado del Boeing 737 del año 1967. Esta nueva creación buscaba competir con una de sus mayores amenazas: Airbus, compañía europea que ya estaba estrenando modelos más económicos en el uso de combustible (A321 neo) 2 .
+
+Es así como el 2017 dieron a conocer el 737 Max 8, contando dentro de sus características con un 14,5% de ahorro de combustible, motores más grandes y un sistema automático para mantener la estabilidad entre la nariz y la parte trasera del avión 3 . Este sistema es fundamental, ya que al poseer motores más grandes, inevitablemente la nariz del avión toma una dirección hacia abajo 4 .
+
+El lanzamiento fue considerado todo un éxito. Así lo comenta Darryl Campbell en el reportaje "Redline: the many human error that brought down the Boeing 737 Max" del sitio especializado en tecnología The Verge:
+
+> "Entre su combustible y su eficiencia de entrenamiento, el Max (737) parecía un prospecto ganador para todos, especialmente para Boeing, que vendió un valor récord de $ 200 mil millones en Maxes antes de que el primer prototipo llegara a los cielos”.
+
+El sistema automático del avión se llama “Sistema de Aumento de las Características de Maniobra” (Maneuvering Characteristics Augmentation Systems -MCAS-), un conjunto de software y sensores pensado para ayudar a los pilotos a maniobrar en una situación en que el avión no responda a ciertas condiciones 6 . Por ejemplo, cuando las alas están perdiendo fuerza porque el avión está subiendo abruptamente, ya que una elevación insuficiente puede producir un bloqueo aerodinámico, provocando que el avión caiga en picada 7 .
+
+> El sistema está pensado para reconocer el aumento de sustentación no lineal y el ángulo de ataque crítico, pero el MCAS automáticamente empuja el comando hacia adelante, inclinando la nariz del avión hacia abajo 8 .
+
+Y precisamente eso pasó en los dos accidentes fatales que se registraron con una diferencia de cinco meses. El primero sucedió el 1 de octubre de 2018, cuando el vuelo comercial de la aerolínea indonesia Lion Air cayó en el mar, dejando 189 víctimas, después de 13 minutos de su despegue 9 . El segundo accidente ocurrió el 10 de marzo de 2019, un vuelo comercial de la empresa Ethiopian en el que fallecieron 157 personas, luego de seis minutos de su despegue 10 .
+
+Ambos accidentes no registraron sobrevivientes y generaron una serie de cuestionamientos tanto sobre el sistema de automatización pensado para solucionar las fallas que la máquina podría presentar por sus motores más anchos como sobre la multinacional estadounidense.
+
+Ahora bien, para comprender qué falló en la implementación de esta solución tecnológica, debemos revisar en qué consistió este proceso de automatización y también si la compañía aérea tomó los resguardos necesarios para la organización.
+
+#### Fallas técnicas y humanas
+
+Tras la revisión de la data alojada en las cajas negras de ambos aviones, varias investigaciones y reportajes señalan que, en primer lugar, se presentaron problemas técnicos, ya que el sistema de automatización impidió que el piloto pudiera cambiar la dirección de la máquina y maniobrar de forma manual el error que arrojaba tanto el sistema de reconocimiento de ángulo como el de automatizado de maniobra. De esta forma, en ambos vuelos, los pilotos fueron incapaces de contrariar al MCAS y evitar estrellarse.
+
+Por su parte, el informe preliminar realizado por la agencia de investigación de la oficina de seguridad aérea de Indonesia, señala que el vuelo Lion Air 610 se estrelló porque un sensor defectuoso informó erróneamente que el avión se estaba calando, provocando que el sistema automatizado inclinara su nariz hacia abajo para lograr una velocidad suficiente para volar con seguridad, finalmente estrellándose y terminando con la vida de todas las personas que iban en ese vuelo 11 .
+
+En esa misma línea, los periodistas del New York Times, Hannah Beech y Muktita Suhartono en el reportaje "Confusion, Then Prayer, in Cockpit of Doomed Lion Air Jet", investigaron y reportearon diversos elementos del primer accidente, señalando que, gracias al segundo accidente, se pudieron establecer ciertos puntos de análisis del primero, para así dar cuenta de lo que realmente sucedió en él.
+
+De esta forma, lograron detallar que "el avión bajó unos 700 pies, y en los minutos posteriores, el MCAS (sistema de automatización) parece haber seguido arrastrando la nariz del avión hacia abajo, lo que incitó a los pilotos a intentar empujar el avión hacia arriba, mediante el uso de interruptores que controlan los estabilizadores en la cola" 12 . Sin embargo, a pesar de las acciones de los pilotos, que incluyeron llamadas a la torre de control de tráfico aéreo para regresar al aeropuerto, no pudieron controlar la dirección manual.
+
+Por otro lado, distintas declaraciones de pilotos de la compañía han señalado como parte de las causas, la modalidad de entrenamiento que tuvieron para el aprendizaje de este sistema automatizado 13 . Este entrenamiento fue acotado, a diferencia de los que suelen aplicarse para este tipo de tecnología 14 . Según la investigación realizada por el The New York Times, los pilotos señalaron haber sido entrenados con un iPad, a diferencia de entrenamientos de simulación real y en maquinarias, esta se trató de una preparación a través de un curso en línea con una duración aproximada de dos horas y media.
+
+Finalmente, a principios de abril de 2019, el CEO de Boeing, Dennis Muilenburg, lamentó los hechos ocurridos y reconoció la responsabilidad de la empresa y señaló que la causa explícita de ambos accidente fue el MCAS 15 . Boeing reconoció fallos en el software del simulador de vuelo del 737 Max, ya que no era capaz de reproducir los problemas de los accidentes y, por lo tanto, los pilotos no pudieron entrenarse para estas eventualidades 16 .
+
+En el presente caso hemos revisado una cadena de malas decisiones alrededor de un sistema automatizado, un avión refaccionado que no contaba con las mejores disposiciones para su vuelo y, al mismo tiempo, un equipo de trabajo con malas directrices para lograr interiorizar el cambio tecnológico al que se vieron expuestos.
+
+A modo de conclusión, una de las lecciones importantes está en el tener una mirada holísitca sobre la introducción de tecnologías para automatizar procesos o actividades. Esto tiene impacto en la forma en que se diseña la incorporación de soluciones tecnológicas avanzadas, y en los procesos de capacitación de quienes van a interactuar con ellas, los cuales muchas veces se simplifican o no se abordan debidamente por expectativas desmedidas en torno a la tecnología misma.
+
+Por otro lado, como vimos también para el caso de la IA, cobra relevancia el comprender los modelos de datos en torno a estas soluciones y la relevancia de contar con buenos datos que permitan a los algoritmos contar con buenos insumos para la toma de decisiones. En definitiva, que los instrumentos arrojen información confusa se relaciona al hecho de no abordar debidamente el flujo de datos correctos que estos requieren para tomar decisiones adecuadas, más aún en momentos críticos.
+
+> ***Reportaje:*** [In 12 Minutes, Everything Went Wrong](https://www.nytimes.com/interactive/2018/12/26/world/asia/lion-air-crash-12-minutes.html)
+
+> **Reflexiona lo siguiente:** Junto con la lectura del caso, reflexiona con las siguientes preguntas, a modo de ir conectando los conceptos revisados en esta unidad
+
+1. ¿De qué manera la evolución en el desarrollo de tecnologías, particularmente aquellas basadas en automatización, podría estar haciendo más compleja su introducción en el contexto de la Transformación Digital?
+
+2. En esta unidad hablamos de tener una mirada holística y sistémica respecto a la automatización. ¿Qué puede haber fallado a la hora de implementar mejoras al sistema automatizado de vuelo, por parte de Boeing?
+
+### Actividad Obligatoria 2: Implementación de tecnologías
+
+**Pregunta:** Recientemente, en tu empresa escucharon que existen soluciones de inteligencia artificial para seleccionar y reclutar personas, las que servirían para avanzar lo más rápido posible en “digitalizar todo lo de Recursos Humanos”. Considerando lo visto en el artículo “Desarrollo de datos y aplicaciones de IA: La importancia de una mirada crítica”, ¿qué consideraciones plantearías al momento de evaluar la implementación de este tipo de soluciones para gestionar personas?
+
+#### Cristián Carreño | Respuesta Sugerida 2
+
+Primero, conversar bien sobre qué entiende la gente por “digitalizar” y por tanto socializar parte de las distinciones conceptuales clave, haciendo ver que no se trata de llegar e implementar tecnología.
+
+Segundo, evaluar bien qué aspecto de toda la gestión de personas resulta más critico de abordar mediante tecnología. Abordar “Todo" en el área de recursos humanos puede ser demasiado amplio y, antes de llegar y contratar, es importante tener claro dónde es clave.
+
+Tercero, evaluar distintas tecnologías. En caso de ir con soluciones que incluyan automatización, robótica, IA, etc., es importante considerar qué fuentes de datos van a ocupar estas soluciones, cuál será el modelo de datos de la solución una vez que entre en operación y finalmente cómo se entrenará la solución.
+
+En esta etapa es relevante mirar la experiencia negativa en torno a potenciales sesgos hacia temas de género, ubicación geográfica, etc. Cuando se le entregan los parámetros a las soluciones para automatizar la captación de CVs, estas pueden replicar sesgos como por ejemplo penalizar a candidatas mujeres versus hombres.
+
+### Resumen y Glosario Unidad 2
+
+#### Resumen U2
+
+Un aspecto diferenciador de la Revolución 4.0 con respecto a las anteriores es la velocidad a la que se vienen desarrollando e implementando las nuevas tecnologías. Es en este contexto donde emerge el interés por entender los avances en automatización y la inteligencia artificial (IA).
+
+El desafío de la automatización, trascendiendo lo técnico, es pensar más allá de los argumentos de tipo económico que tradicionalmente aluden al reemplazo de trabajadores, reducción de costos u obtención de mayor eficiencia en alguna tarea o actividad puntual. Una mirada más amplia sobre el trabajo que la empresa u organización realiza implica mapear y visualizar aquellas funciones, actividades y procesos susceptibles de ser automatizados, de esta manera, ese proceso de reconocimiento se realizará de manera holística.
+
+Históricamente, la automatización, entendida como la ejecución de tareas, actividades y procesos con el apoyo de tecnología, ha sido utilizada de manera transversal en distintas industrias, incluso antes de contar con el uso de inteligencia artificial (IA).
+
+Un caso reciente de aplicación de Automatización fue realizado por Anglo American. En alianza con la Carnegie Mellon University, desarrollaron un “robot inspector”, el cual monitoreó de principio a fin dicha tubería y proporcionó información de su estado mediante la obtención y procesamiento de imágenes.
+
+La IA y sus aplicaciones vienen desarrollándose desde el siglo pasado, con destacados avances en distintas áreas, también llamadas “capacidades de IA”, como el aprendizaje automático, minería de datos, etc. Estas capacidades de la IA son las que:"Permiten la realización de tareas o resolución de problemas (cognitivamente) complejos, de forma eficiente, muchas de las cuales están basadas en el uso intensivo de conocimiento" (Atkinson, 2019).
+
+Al igual que los humanos necesitamos buenos datos e información para tomar buenas decisiones, la IA requiere de lo mismo para resolver de manera exitosa un problema complejo, que es antecedido de una toma de decisiones realizada mediante algoritmos. De lo contrario, al aplicar algoritmos de IA sobre datos incorrectos o sesgados, solamente se lograrán resultados que no agregan valor, sino que solamente entregan respuestas o cálculos más rápidos.
+
+#### Glosario U2
+
+**Revolución 4.0:** Fase contemporánea del desarrollo, centrada en avances tecnológicos cada vez más acelerados en ámbitos de inteligencia artificial (IA), autonomía, Internet de las Cosas, con aplicación a través de distintas industrias, pero con consecuencias amplias que afectan a la sociedad, su habilidad para conectarse y permanecer conectada. (adaptada de MIT Technology Review, 2019).
+
+**Automatización:** Ejecución de tareas, actividades y procesos con el apoyo de tecnología (mecánica o digital), utilizada históricamente de manera transversal en distintas industrias.
+
+**Inteligencia artificial (IA):** “La ciencia de hacer que los computadores realicen tareas que si las hicieran los humanos serían catalogadas como inteligentes.” (Atkinson, 2019).
+
+**Capacidades de la IA:** Avances en ámbitos relacionados a la IA, como el aprendizaje automático (“machine learning”), minería de datos, etc., que “permiten la realización de tareas o resolución de problemas (cognitivamente) complejos, de forma eficiente, muchas de las cuales están basadas en el uso intensivo de conocimiento.” (Atkinson, 2019).
+
+**Sesgo:** En términos generales, un sesgo es una desviación respecto de algo. Por ejemplo, en estadística, el sesgo es una medida de la distancia respecto a un valor esperado. En el contexto de soluciones basadas en datos y algoritmos, se habla de “sesgo de automatización” o “automation bias”, que puede entenderse como la desviación de un cierto resultado, producto de una toma de decisión realizada desde una confianza plena (sin contrastes) en un sistema de decisión basado en algoritmos.
+
+### Control Unidad 2
+
+#### Pregunta 1 C2
+
+De las siguientes afirmaciones acerca de las “cuatro revoluciones” y la evolución histórica de la tecnología, identifica la(s) FALSA(S):
+
+1. Uno de los hitos clave de la revolución industrial fue la invención del automóvil.
+1. Un factor importante de diferenciación en la Revolución 4.0 respecto a las anteriores ha sido la rapidez en que se han desarrollado las tecnologías.
+1. La Revolución Industrial 4.0 se caracteriza por computadores que realizan tareas complejas mejor que los humanos.
+
+**La alternativa correcta es: Sólo I:** Los hitos clave de la revolución industrial fueron la máquina a vapor como fuente de producción y el nacimiento de la iluminación. El hito de la invención del automóvil ocurre en la revolución tecnológica. Las afirmaciones de alternativas II y III son verdaderas.
+
+#### Pregunta 2 C2
+
+Una mirada más amplia, sistémica u “holística” a la hora de explorar oportunidades para aplicación de la automatización tiene como propósito principal:
+
+1. Reducir costos y personal.
+1. Aumentar la eficiencia puntual de actividades y procesos específicos y aislados de la empresa.
+1. Mapear de manera integrada las distintas actividades y tareas, y visualizar nuevas formas de hacer el trabajo en la organización.
+1. Resolver la falta de equipos computacionales existentes en la organización.
+1. Todas las anteriores.
+
+**La alternativa correcta es: Mapear de manera integrada las distintas actividades y tareas, y visualizar nuevas formas de hacer el trabajo en la organización:** Tal como se menciona en el primer artículo “Automatización y sus avances aplicados a la Transformación Digital”, la mirada sistémica y holística de la automatización para la Transformación Digital busca pensar más allá de argumentos económicos y de corto plazo, los cuales buscan únicamente la baja de costos, aumento de eficiencia puntual en alguna tarea o actividad, y el simple reemplazo de trabajadores: “El desafío de la automatización es pensar más allá de argumentos que únicamente se refieren al reemplazo de trabajadores, reducción de costos u obtención de mayor eficiencia en alguna tarea o actividad puntual. La Transformación Digital, como vimos en la primera unidad, es un proceso tanto técnico (digital o tecnológico), como adaptativo o cultural. Una mirada más amplia de la automatización del negocio o quehacer de la organización implica mapear y visualizar con una mirada sistémica aquellas funciones, actividades y procesos susceptibles de ser automatizados, de esta manera, ese proceso de reconocimiento se realizará de manera holística”.
+
+#### Pregunta 3 C2
+
+Respecto a la automatización e IA (inteligencia artificial), podemos afirmar lo siguiente:
+
+1. Ambos son términos totalmente excluyentes entre sí. No podemos relacionar automatización con IA en el contexto de nuevas tecnologías.
+1. La automatización es la ciencia de hacer que los computadores realicen tareas complejas y que parezcan como “inteligentes”.
+1. La IA comprende un set de capacidades cognitivas que permiten la realización de tareas complejas por parte de máquinas.
+1. La IA es reciente y vienen desarrollándose desde inicios de los años 2000, con el boom de las metodologías de pensamiento de diseño para la innovación.
+1. Todas las anteriores.
+
+**La alternativa correcta es: La IA comprende un set de capacidades cognitivas que permiten la realización de tareas complejas por parte de máquinas.:** Actualmente se confunden tanto automatización como IA en un contexto de Transformación Digital, sin embargo, “no son conceptos totalmente excluyentes entre sí a la hora de pensar aplicaciones para la Transformación Digital.” Así, la A es falsa. La IA es una ciencia de hacer que los computadores realicen tareas complejas y que parecieran ser “inteligentes” si las hiciera un humano, y viene desarrollándose desde el siglo pasado, por eso B y D son falsas.
+
+#### Pregunta 4 C2
+
+A partir del artículo “Automatización y sus avances aplicados a la Transformación Digital” y el video de Anglo American, identifica cuál(es) son la(s) característica(s) del robot inspector:
+
+1. Mostrar el estado de la tubería en todo momento.
+1. Utilizar tecnología del robot explorador a Marte.
+1. Contar con sistemas de sensores y cámaras que reconstruyen la tubería con alta precisión.
+1. El robot genera una serie de decisiones autónomas a partir de data y algoritmos de IA sin ninguna intervención de humanos.
+
+**La alternativa correcta es: I, II y III:** El robot genera una visualización de la tubería, y luego es un equipo de expertos el que genera un consenso basado en la información captada por el Inspector.
+
+#### Pregunta 5 C2
+
+A través de qué acciones y/o actividades las empresas como IBM abordan la difusión de Inteligencia Artificial (IA):
+
+1. Construcción de Productos Mínimos Viables o MVPs.
+1. Difusión y adopción.
+1. Ideación conceptual de soluciones.
+1. Uso de métodos propios del diseño para la innovación.
+1. Todas las anteriores.
+
+**La alternativa correcta es: Todas las anteriores:** Tal como viste en el artículo “Inteligencia Artificial (IA) en la Transformación Digital”, IBM aplica métodos propios de diseño para la innovación para difundir la IA de forma didáctica, a través de las actividades ya listadas: ideación conceptual, realización de prototipos y MVPs, y finalmente difusión y adopción.
+
+#### Pregunta 6 C2
+
+Respecto a la incorporación de tecnologías en el uso y analítica de datos e IA, podemos afirmar:
+
+1. En Chile aún hay mucho que avanzar en la incorporación del uso de datos e IA para la toma la decisiones; hay gran potencial de generar aprendizaje sobre consumidores, y abordar mejor sus necesidades y preferencias.
+1. Industrias “tradicionales” (como las productivas) no serán afectadas por los nuevos avances en tecnología, puesto que las tecnologías productivas (como el vino) ya existentes desde antes ya son eficientes y no dejan espacio alguno para la Transformación Digital.
+1. Las startups y emprendimientos “nativos digitales”, son los únicos capaces de aprovechar las nuevas tecnologías y navegar con éxito la Transformación Digital, eliminando a las empresas tradicionales ya existentes.
+
+**La alternativa correcta es: Sólo I:** Las alternativas II y III son incorrectas, según lo planteado en el contenido de la Unidad. A partir del ejemplo de la industria del vino, existen oportunidades para transformar profundamente industrias productivas desde la tecnología, lo que además muestra cómo esta incorporación de nuevos avances no está solamente limitado a las empresas “nativas digitales”.
+
+#### Pregunta 7 C2
+
+A propósito de lo planteado por Cathy O'Neil y Zeynep Tufecki respecto a la importancia de tener una mirada critica en el uso de los datos y las tecnologías basadas en algoritmos de IA, ¿cuál(es) de la(s) siguiente(s) afirmacione(s) es(son) verdadera(s)?
+
+1. la capacidad predictiva (una de las principales promesas de la IA) se ve afectada por sesgos a la hora de programarlas.
+1. Los casos muestran que los algoritmos de IA son objetivos, verdaderos y absolutos, y no se equivocan nunca, ya que están basados en fundamentos científicos.
+1. Hay que estar atentos a las “cajas negras” en que se han convertido las nuevas tecnologías, particularmente aquellas relacionadas con la inteligencia de máquina o IA.
+
+**La alternativa correcta es: I y III:** De acuerdo con las expertas, existe la creencia de que los algoritmos son objetivos, verdaderos y científicos. Sin embargo, ellas afirman que los algoritmos son opiniones “embebidas” en código, muy diferente a cómo la gente se los imagina. Lo anterior está sustentado en una serie de casos de sesgo en IA en sectores tan distintos como educación, recursos humanos y seguridad pública.
+
+#### Pregunta 8 C2
+
+Respecto a los sesgos en la aplicación de algoritmos de IA, podemos afirmar lo siguiente:
+
+1. La solución de IA desarrollada por Amazon para automatizar el proceso de reclutamiento y selección de personal generó un sesgo que era principalmente de raza, discriminando a personas según color de piel.
+1. En el caso de Londres, el Ministerio de Salud implementó soluciones basadas en algoritmos predictivos para orientar el uso eficiente de recursos en hospitales.
+1. La programación de algoritmos de IA se ha ido complejizando cada vez más.
+
+**La alternativa correcta es: Sólo III:** La solución de Amazon fue desechada pues tuvo un sesgo de género, penalizando a las candidatas y a su vez favoreciendo a los hombres. Por otra parte, el caso de Londres fue implementado por la Policía Metropolitana, con el objetivo de mejorar la asignación de recursos para combatir la criminalidad, mediante algoritmos predictivos.
+
+#### Pregunta 9 C2
+
+Responde a partir del caso “La tragedia evitable del Boeing 737 Max”, ¿cuáles de las siguientes alternativas se consideran como las posibles causas de falla del sistema automatizado del Boeing 737 Max 8?
+
+1. El sistema de automatización impidió que el piloto pudiera maniobrar de forma manual el error que arrojaban los sistemas.
+1. La preparación para aprender el MCAS se basó en un entrenamiento en línea, en vez de simulaciones reales y con maquinarias.
+1. Un equipo de trabajo con malas directrices para interiorizar el cambio tecnológico que implicaba el sistema.
+
+**La alternativa correcta es: I, II y III:** De acuerdo con lo señalado en el documento del caso: “Tras la revisión de la data alojada en las cajas negras de ambos aviones, varias investigaciones y reportajes señalan que, en primer lugar, se presentaron problemas técnicos, ya que el sistema de automatización impidió que el piloto pudiera cambiar la dirección de la máquina y maniobrar de forma manual el error que arrojaba tanto el sistema de reconocimiento de ángulo como el de automatizado de maniobra. Por otro lado, distintas declaraciones de pilotos de la compañía han señalado como parte de las causas, la modalidad de entrenamiento que tuvieron para el aprendizaje de este sistema automatizado. Este entrenamiento fue acotado, a diferencia de los que suelen aplicarse para este tipo de tecnología. Según la investigación realizada por el The New York Times, los pilotos señalaron haber sido entrenados con un iPad, a diferencia de entrenamientos de simulación real y en maquinarias, esta se trató de una preparación a través de un curso en línea con una duración aproximada de dos horas y media. En el presente caso hemos revisado una cadena de malas decisiones alrededor de un sistema automatizado, un avión refaccionado que no contaba con las mejores disposiciones para su vuelo y, al mismo tiempo, un equipo de trabajo con malas directrices para lograr interiorizar el cambio tecnológico al que se vieron expuestos”.
+
+#### Pregunta 10 C2
+
+Sobre la lectura “Empresas chilenas podrán reclutar a trabajadores con inteligencia artificial”, seleccione la(s) afirmaciön(es) correcta(s):
+
+1. La plataforma desarrollada por Buk opera en tres niveles: automatización de procesos de gestión, gestión y retención de talentos, y análisis de datos.
+1. La idea nació a partir de la experiencia de Arrieta en una empresa manufacturera.
+1. Buk busca reemplazar a las áreas de gestión de personas por completo, mediante soluciones de automatización e IA.
+
+**La alternativa correcta es: I y II:** La empresa BUK nació gracias a la iniciativa personal de Arrieta, observando el uso de papeles en el área de RRHH de una empresa manufacturera. La solución basada en IA opera en los tres niveles señalados en A). En ninguna parte de la lectura se expone que Buk se plantee como una solución para reemplazar por completo a las áreas de gestión de personas.
+
 [img_1]: https://github.com/ibanezmdm/dip_tg/blob/master/Transformacion_Digital/img/Unidad_1/img_1.png "Imagen 1"
 [img_2]: https://github.com/ibanezmdm/dip_tg/blob/master/Transformacion_Digital/img/Unidad_1/img_2.png "Imagen 2"
 [img_3]: https://github.com/ibanezmdm/dip_tg/blob/master/Transformacion_Digital/img/Unidad_1/img_3.png "Imagen 3"
